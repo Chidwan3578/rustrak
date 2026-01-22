@@ -24,9 +24,8 @@
   </p>
 </div>
 
----
+<img width="1280" height="412" alt="Frame 2" src="https://github.com/user-attachments/assets/7ba6664b-7352-4955-8943-b1429d7491cd" />
 
-<img width="1280" height="640" alt="Frame 1" src="https://github.com/user-attachments/assets/3f498a0b-4e0d-47bb-b6b7-d40a38256529" />
 
 ## Why Rustrak?
 
