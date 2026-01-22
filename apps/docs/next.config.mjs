@@ -8,4 +8,6 @@ const withNextra = nextra({
 export default withNextra({
   output: 'export',
   images: { unoptimized: true },
+  basePath: process.env.GITHUB_ACTIONS ? '/rustrak' : '',
+  assetPrefix: process.env.GITHUB_ACTIONS ? '/rustrak/' : '',
 });
